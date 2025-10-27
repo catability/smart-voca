@@ -1,0 +1,6 @@
+# 2025-10-20 - 스마트 단어장 - 필수 라이브러리 정의
+# 파일 위치: smart_vocab_builder/requirements.txt
+PyQt5==5.15.9
+matplotlib==3.7.1
+pandas==2.0.0
+# PyInstaller==5.13.0
