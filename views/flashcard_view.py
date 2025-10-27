@@ -165,6 +165,13 @@ class FlashcardView(QWidget):
         self.result_buttons.addWidget(self.wrong_btn)
         self.result_buttons.addWidget(self.correct_btn)
         layout.addLayout(self.result_buttons)
+
+        # 공부 중단 버튼 추가
+        self.stop_btn = QPushButton("공부 중단하기")
+        self.stop_btn.setStyleSheet("background-color: #E57373; color: white; font-weight: bold;")
+        self.stop_btn.setMinimumHeight(35)
+        self.stop_btn.clicked.connect(self._confirm_end_session)
+        layout.addWidget(self.stop_btn)
         
         self._set_card_state(state='initial') # 초기 상태 설정
         return widget
@@ -236,6 +243,9 @@ class FlashcardView(QWidget):
 
     def _show_answer(self):
         """ 답변을 표시하고 버튼 상태를 전환합니다. """
+        self.meaning_label.setText(self._current_meaning_text)
+        self.meaning_label.setStyleSheet('color: blue')
+
         self._set_card_state(state='answer_shown')
         self.is_answer_shown = True
 
@@ -271,6 +281,24 @@ class FlashcardView(QWidget):
         # 4. 다음 카드로 전환
         self._show_next_card()
         self.is_answer_shown = False # 상태 리셋
+
+    def _confirm_end_session(self):
+        """ 사용자가 공부를 중단할 때 확인 후 세션 종료 """
+        reply = QMessageBox.question(
+            self,
+            "공부 중단",
+            "정말로 현재 학습을 중단하시겠습니까?",
+            QMessageBox.Yes |QMessageBox.No,
+            QMessageBox.No
+        )
+
+        if reply == QMessageBox.Yes:
+            # 세션 종료 (기존 종료 로직 재활용)
+            try:
+                self._end_session()
+                LOGGER.info("User stopped the study session manually.")
+            except Exception as e:
+                QMessageBox.critical(self, "오류", f"세션 종료 중 오류 발생: {e}")
 
     def _end_session(self):
         """ 학습 세션을 종료하고 결과를 표시한 후 초기 화면으로 돌아갑니다. """

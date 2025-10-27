@@ -12464,3 +12464,601 @@ CREATE TABLE IF NOT EXISTS user_settings (
 [2025-10-27 11:14:32] - ERROR - settings_view.py:214 - DB backup failed: 'FileHandler' object has no attribute 'backup_database'
 [2025-10-27 13:06:23] - INFO - base_controller.py:74 - All shared DB connections closed.
 [2025-10-27 13:06:23] - INFO - main.py:200 - Application closed and DB connection terminated.
+[2025-10-27 13:48:06] - INFO - logger.py:49 - Logger initialized successfully. Log file: C:\dev\word\logs\app.log
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - file_handler.py:45 - Database schema loaded from database/schema.sql.
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:06] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - word_management_view.py:165 - Loaded 37 words into the table.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - WARNING - settings_model.py:90 - Setting key 'daily_time_goal' not found in DB or config.py defaults.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:11] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:11] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:11] - INFO - learning_controller.py:65 - Final session word list size: 37 for mode 'random'.
+[2025-10-27 13:48:11] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:11] - INFO - base_model.py:60 - Inserted into learning_sessions. ID: 13
+[2025-10-27 13:48:11] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:11] - INFO - flashcard_view.py:204 - Session started: 37 words, Mode: random, Direction: eng_to_kor
+[2025-10-27 13:48:16] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:16] - INFO - base_model.py:60 - Inserted into learning_history. ID: 30
+[2025-10-27 13:48:16] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:16] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:16] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:16] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:16] - INFO - base_model.py:60 - Inserted into word_statistics. ID: 19
+[2025-10-27 13:48:16] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:16] - DEBUG - learning_controller.py:108 - Word ID 77 result recorded. Correct: True
+[2025-10-27 13:48:19] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:19] - INFO - base_model.py:60 - Inserted into learning_history. ID: 31
+[2025-10-27 13:48:19] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:19] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:19] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:19] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:48:19] - INFO - base_model.py:60 - Inserted into word_statistics. ID: 20
+[2025-10-27 13:48:19] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:48:19] - DEBUG - learning_controller.py:108 - Word ID 53 result recorded. Correct: False
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:49:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:49:07] - INFO - base_controller.py:74 - All shared DB connections closed.
+[2025-10-27 13:49:07] - INFO - main.py:200 - Application closed and DB connection terminated.
+[2025-10-27 13:51:02] - INFO - logger.py:49 - Logger initialized successfully. Log file: C:\dev\word\logs\app.log
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - file_handler.py:45 - Database schema loaded from database/schema.sql.
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - word_management_view.py:165 - Loaded 37 words into the table.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - WARNING - settings_model.py:90 - Setting key 'daily_time_goal' not found in DB or config.py defaults.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:03] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:03] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:06] - INFO - learning_controller.py:65 - Final session word list size: 37 for mode 'random'.
+[2025-10-27 13:51:06] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:06] - INFO - base_model.py:60 - Inserted into learning_sessions. ID: 14
+[2025-10-27 13:51:06] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:06] - INFO - flashcard_view.py:209 - Session started: 37 words, Mode: random, Direction: eng_to_kor
+[2025-10-27 13:51:11] - INFO - base_controller.py:74 - All shared DB connections closed.
+[2025-10-27 13:51:11] - INFO - main.py:200 - Application closed and DB connection terminated.
+[2025-10-27 13:51:43] - INFO - logger.py:49 - Logger initialized successfully. Log file: C:\dev\word\logs\app.log
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - file_handler.py:45 - Database schema loaded from database/schema.sql.
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:43] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:43] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - word_management_view.py:165 - Loaded 37 words into the table.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - WARNING - settings_model.py:90 - Setting key 'daily_time_goal' not found in DB or config.py defaults.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:44] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:44] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:46] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:46] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:46] - INFO - learning_controller.py:65 - Final session word list size: 37 for mode 'random'.
+[2025-10-27 13:51:46] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:51:46] - INFO - base_model.py:60 - Inserted into learning_sessions. ID: 15
+[2025-10-27 13:51:46] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:51:46] - INFO - flashcard_view.py:209 - Session started: 37 words, Mode: random, Direction: eng_to_kor
+[2025-10-27 13:51:49] - INFO - base_controller.py:74 - All shared DB connections closed.
+[2025-10-27 13:51:49] - INFO - main.py:200 - Application closed and DB connection terminated.
+[2025-10-27 13:52:07] - INFO - logger.py:49 - Logger initialized successfully. Log file: C:\dev\word\logs\app.log
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - file_handler.py:45 - Database schema loaded from database/schema.sql.
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - word_management_view.py:165 - Loaded 37 words into the table.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - WARNING - settings_model.py:90 - Setting key 'daily_time_goal' not found in DB or config.py defaults.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:10] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:10] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:10] - INFO - learning_controller.py:65 - Final session word list size: 37 for mode 'random'.
+[2025-10-27 13:52:10] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:52:10] - INFO - base_model.py:60 - Inserted into learning_sessions. ID: 16
+[2025-10-27 13:52:10] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:52:10] - INFO - flashcard_view.py:210 - Session started: 37 words, Mode: random, Direction: eng_to_kor
+[2025-10-27 13:52:12] - INFO - base_controller.py:74 - All shared DB connections closed.
+[2025-10-27 13:52:12] - INFO - main.py:200 - Application closed and DB connection terminated.
+[2025-10-27 13:55:54] - INFO - logger.py:49 - Logger initialized successfully. Log file: C:\dev\word\logs\app.log
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - file_handler.py:45 - Database schema loaded from database/schema.sql.
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - base_controller.py:30 - BaseController initialized and all core models instantiated.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - word_management_view.py:165 - Loaded 37 words into the table.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - WARNING - settings_model.py:90 - Setting key 'daily_word_goal' not found in DB or config.py defaults.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - WARNING - settings_model.py:90 - Setting key 'daily_time_goal' not found in DB or config.py defaults.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:54] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:54] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:57] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:57] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:57] - INFO - learning_controller.py:65 - Final session word list size: 37 for mode 'random'.
+[2025-10-27 13:55:57] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:57] - INFO - base_model.py:60 - Inserted into learning_sessions. ID: 17
+[2025-10-27 13:55:57] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:57] - INFO - flashcard_view.py:211 - Session started: 37 words, Mode: random, Direction: eng_to_kor
+[2025-10-27 13:55:58] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:58] - INFO - base_model.py:60 - Inserted into learning_history. ID: 32
+[2025-10-27 13:55:58] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:58] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:58] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:58] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:58] - INFO - base_model.py:60 - Inserted into word_statistics. ID: 21
+[2025-10-27 13:55:58] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:58] - DEBUG - learning_controller.py:108 - Word ID 51 result recorded. Correct: False
+[2025-10-27 13:55:59] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:59] - INFO - base_model.py:60 - Inserted into learning_history. ID: 33
+[2025-10-27 13:55:59] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:59] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:59] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:59] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:55:59] - INFO - base_model.py:60 - Inserted into word_statistics. ID: 22
+[2025-10-27 13:55:59] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:55:59] - DEBUG - learning_controller.py:108 - Word ID 79 result recorded. Correct: True
+[2025-10-27 13:56:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:00] - INFO - base_model.py:60 - Inserted into learning_history. ID: 34
+[2025-10-27 13:56:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:00] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:00] - INFO - base_model.py:135 - Updated word_statistics ID: 12. Rows affected: 1
+[2025-10-27 13:56:00] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:00] - DEBUG - learning_controller.py:108 - Word ID 73 result recorded. Correct: False
+[2025-10-27 13:56:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:07] - INFO - base_model.py:135 - Updated learning_sessions ID: 17. Rows affected: 1
+[2025-10-27 13:56:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:07] - INFO - db_connection.py:57 - Database connected successfully to C:\dev\word\database\smart_vocab.db
+[2025-10-27 13:56:07] - INFO - db_connection.py:73 - Database connection closed.
+[2025-10-27 13:56:10] - INFO - flashcard_view.py:299 - User stopped the study session manually.
+[2025-10-27 13:56:19] - INFO - base_controller.py:74 - All shared DB connections closed.
+[2025-10-27 13:56:19] - INFO - main.py:200 - Application closed and DB connection terminated.
